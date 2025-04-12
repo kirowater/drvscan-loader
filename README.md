@@ -12,3 +12,7 @@
 1. Download the repository.
 2. Make sure all files are in the same folder.
 3. Run the loader as **Administrator**.
+
+## Preview
+
+![Preview Screenshot](god.png)
